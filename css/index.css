@@ -1,0 +1,38 @@
+#square {
+		width: 200px;
+		height: 200px;
+		background-color: #AABBCC;
+		padding:50px;
+		border:50px solid red;
+		margin:50px;
+	}
+
+	.done{text-decoration: line-through;
+	}
+
+	.important {
+		font-size: 80px;
+	}
+
+	#important {font-size: 80px;}
+
+	h1 {
+		color: red;
+		text-decoration-line: underline;
+		font-size: 60px;
+	}
+
+	.done
+
+	li {
+		color: blue;
+	}
+
+	ul li{
+
+	color: green;
+	}
+
+	ol li {
+		colour:purple;
+	}
